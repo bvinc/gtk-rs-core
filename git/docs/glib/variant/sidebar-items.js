@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["DictEntry","A Dictionary entry."],["Variant","A generic immutable value capable of carrying various types."]],"trait":[["FromVariant","Extracts a value."],["StaticVariantType","Returns `VariantType` of `Self`."],["ToVariant","Converts to `Variant`."]]});
+window.SIDEBAR_ITEMS = {"struct":["DictEntry","FixedSizeVariantArray","Handle","ObjectPath","Signature","Variant","VariantTypeMismatchError"],"trait":["FixedSizeVariantType","FromVariant","StaticVariantType","ToVariant"]};
